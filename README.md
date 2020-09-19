@@ -19,7 +19,6 @@
 <img align="left" title="nodejs" alt="nodejs" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196/topics/nodejs/nodejs.png" />
 <img align="left" title="php" alt="php" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/php/php.png" />
 <img align="left" title="sql" alt="sql" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/sql/sql.png" />
-<img align="left" title="haskell" alt="haskell" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/haskell/haskell.png" />
 <img align="left" title="bash" alt="bash" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/bash/bash.png" />
 <img align="left" title="latex" alt="latex" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/latex/latex.png" />
 <img align="left" title="linux" alt="linux" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/linux/linux.png" />
