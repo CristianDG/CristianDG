@@ -28,12 +28,12 @@
 
 ### Estou estudando
 <img align="left" title="clojure" alt="clojure" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/clojure/clojure.png" />
-<img align="left" title="elm" alt="elm" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/elm/elm.png" />
+<img align="left" title="react" alt="react" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/react/react.png" />
 
 <br />
 
 ### Pretendo estudar
-<img align="left" title="react" alt="react" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/react/react.png" />
+<img align="left" title="elm" alt="elm" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/elm/elm.png" />
 <img align="left" title="coq" alt="coq" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/coq/coq.png" />
 <img align="left" title="graphql" alt="graphql" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/graphql/graphql.png" />
 <img align="left" title="lua" alt="lua" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/lua/lua.png" />
