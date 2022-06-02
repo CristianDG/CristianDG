@@ -29,13 +29,14 @@
 <br />
 
 <img align="left" title="mongodb" alt="mongodb" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
+<img align="left" title="c" alt="c" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
 
 <br />
 
 ### Estou estudando
 
 
-<img align="left" title="c" alt="c" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
+
 <img align="left" title="java" alt="java" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
 
 <br />
