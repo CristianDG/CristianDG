@@ -59,11 +59,11 @@
 <img align="left" width="30px" title="go" alt="go" src="./icones/go.svg" />
 <img align="left" width="30px" title="C#" alt="csharp" src="./icones/csharp.svg" />
 <img align="left" width="30px" title="scala" alt="scala" src="./icones/scala.ico" />
+<img align="left" width="30px" title="C++" alt="cpp" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
 <img align="left" width="30px" title="clojure" alt="clojure" src="./icones/clojure.png" />
-<img align="left" width="30px" title="rust" alt="rust" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" />
 <img align="left" width="30px" title="lua" alt="lua" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" />
 <img align="left" width="30px" title="java" alt="java" src="./icones/java.ico" />
-<img align="left" width="30px" title="C++" alt="cpp" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
+<img align="left" width="30px" title="rust" alt="rust" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" />
 <img align="left" width="30px" title="nim" alt="nim" src="https://raw.githubusercontent.com/github/explore/main/topics/nim/nim.png" />
 <img align="left" width="30px" title="svelte" alt="svelte" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png" />
 <img align="left" width="30px" title="zod" alt="zod" src="https://zod.dev/static/favicon.ico" />
