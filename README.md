@@ -14,6 +14,7 @@
 <img align="left" width="30px" title="neovim" alt="neovim"  src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />
 <img align="left" width="30px" title="Terminal" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
 <img align="left" width="30px" title="linux" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
+<img align="left" width="30px" title="odin" alt="odin"  src="./icones/odin.svg" />
 <img align="left" width="30px" title="haskell" alt="haskell" src="https://raw.githubusercontent.com/github/explore/main/topics/haskell/haskell.png" />
 <img align="left" width="30px" title="javascript" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" width="30px" title="typescript" alt="typescript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
@@ -26,11 +27,11 @@
 <img align="left" width="30px" title="mongodb" alt="mongodb" src="https://www.mongodb.com/assets/images/global/favicon.ico" />
 <img align="left" width="30px" title="sql" alt="sql" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
 <img align="left" width="30px" title="bash" alt="bash" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
+
+<br/>
+<br/>
+
 <img align="left" width="30px" title="latex" alt="latex" src="https://raw.githubusercontent.com/github/explore/main/topics/latex/latex.png" />
-
-<br/>
-<br/>
-
 <img align="left" width="30px" title="flask" alt="flask" src="./icones/flask.png" />
 <img align="left" width="30px" title="php" alt="php" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
 <img align="left" width="30px" title="ocaml" alt="ocaml" src="https://raw.githubusercontent.com/github/explore/main/topics/ocaml/ocaml.png" />
@@ -43,7 +44,6 @@
 ### Estou estudando
 <div>
 
-<img align="left" width="30px" title="odin" alt="odin"  src="./icones/odin.svg" />
 <img align="left" width="30px" title="raylib" alt="raylib" src="https://www.raylib.com/favicon.ico" />
 <img align="left" width="30px" title="opengl" alt="opengl" src="./icones/opengl.png" />
 
@@ -53,6 +53,7 @@
 
 ### Pretendo estudar
 <div>
+<img align="left" width="30px" title="web assembly" alt="elixir" src="./icones/wasm.ico" />
 <img align="left" width="30px" title="elixir" alt="elixir" src="./icones/elixir.ico" />
 <img align="left" width="30px" title="julia" alt="julia" src="./icones/julia.ico" />
 <img align="left" width="30px" title="vulkan" alt="vulkan" src="./icones/vulkan.png" />
@@ -68,7 +69,6 @@
 <img align="left" width="30px" title="svelte" alt="svelte" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png" />
 <img align="left" width="30px" title="zod" alt="zod" src="https://zod.dev/static/favicon.ico" />
 <img align="left" width="30px" title="deno" alt="deno"  src="./icones/deno.svg" />
-<img align="left" width="30px" title="deno fresh" alt="deno fresh"  src="./icones/fresh.ico" />
 
 <br/>
 <br/>
