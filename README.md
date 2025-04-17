@@ -15,28 +15,27 @@
 <img align="left" width="30px" title="Terminal" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
 <img align="left" width="30px" title="linux" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
 <img align="left" width="30px" title="odin" alt="odin"  src="./icones/odin.svg" />
+<img align="left" width="30px" title="C" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
 <img align="left" width="30px" title="haskell" alt="haskell" src="https://raw.githubusercontent.com/github/explore/main/topics/haskell/haskell.png" />
 <img align="left" width="30px" title="javascript" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" width="30px" title="typescript" alt="typescript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
 <img align="left" width="30px" title="html" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" width="30px" title="react.js" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-<img align="left" width="30px" title="C" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
 <img align="left" width="30px" title="node.js" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196/topics/nodejs/nodejs.png" />
 <img align="left" width="30px" title="python" alt="python" src="./icones/python.ico" />
-<img align="left" width="30px" title="express.js" alt="express" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
-<img align="left" width="30px" title="mongodb" alt="mongodb" src="https://www.mongodb.com/assets/images/global/favicon.ico" />
 <img align="left" width="30px" title="sql" alt="sql" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
 <img align="left" width="30px" title="bash" alt="bash" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
+<img align="left" width="30px" title="php" alt="php" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
+<img align="left" width="30px" title="ocaml" alt="ocaml" src="https://raw.githubusercontent.com/github/explore/main/topics/ocaml/ocaml.png" />
+<img align="left" width="30px" title="react.js" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
 
 <br/>
 <br/>
 
 <img align="left" width="30px" title="latex" alt="latex" src="https://raw.githubusercontent.com/github/explore/main/topics/latex/latex.png" />
 <img align="left" width="30px" title="flask" alt="flask" src="./icones/flask.png" />
-<img align="left" width="30px" title="php" alt="php" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
-<img align="left" width="30px" title="ocaml" alt="ocaml" src="https://raw.githubusercontent.com/github/explore/main/topics/ocaml/ocaml.png" />
+<img align="left" width="30px" title="express.js" alt="express" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
+<img align="left" width="30px" title="mongodb" alt="mongodb" src="https://www.mongodb.com/assets/images/global/favicon.ico" />
 <img align="left" width="30px" title="next.js" alt="next" src="./icones/next.ico" />
-<img align="left" width="30px" title="trpc" alt="trpc" src="./icones/trpc.ico" />
 
 <br/>
 </div>
