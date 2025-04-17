@@ -26,7 +26,7 @@
 <img align="left" width="30px" title="bash" alt="bash" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
 <img align="left" width="30px" title="php" alt="php" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
 <img align="left" width="30px" title="ocaml" alt="ocaml" src="https://raw.githubusercontent.com/github/explore/main/topics/ocaml/ocaml.png" />
-<img align="left" width="30px" title="react.js" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img align="left" width="30px" title="web assembly" alt="elixir" src="./icones/wasm.ico" />
 
 <br/>
 <br/>
@@ -36,6 +36,8 @@
 <img align="left" width="30px" title="express.js" alt="express" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
 <img align="left" width="30px" title="mongodb" alt="mongodb" src="https://www.mongodb.com/assets/images/global/favicon.ico" />
 <img align="left" width="30px" title="next.js" alt="next" src="./icones/next.ico" />
+<img align="left" width="30px" title="react.js" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+
 
 <br/>
 </div>
@@ -52,7 +54,6 @@
 
 ### Pretendo estudar
 <div>
-<img align="left" width="30px" title="web assembly" alt="elixir" src="./icones/wasm.ico" />
 <img align="left" width="30px" title="elixir" alt="elixir" src="./icones/elixir.ico" />
 <img align="left" width="30px" title="julia" alt="julia" src="./icones/julia.ico" />
 <img align="left" width="30px" title="vulkan" alt="vulkan" src="./icones/vulkan.png" />
